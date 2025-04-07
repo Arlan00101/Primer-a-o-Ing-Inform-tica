@@ -14,9 +14,6 @@ Repositorio para compartir conferencias y ejercicios destinados a 1er año
 - [Cómo Usar este Material 💡](#cómo-usar-este-material-)
 - [Recursos Adicionales 📚](#recursos-adicionales-)
 - [Contribuciones 🤝](#contribuciones-)
-- [Contacto 📫](#contacto-)
-- [Licencia 📄](#licencia-)
-
 ---
 
 ## Introducción 🚀
