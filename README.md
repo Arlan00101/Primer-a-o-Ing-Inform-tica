@@ -9,13 +9,13 @@ Repositorio para compartir conferencias y ejercicios destinados a 1er año
 
 ## Índice
 
-- [Introducción 🚀](#Introducción-🚀)
-- [Estructura del Repositorio 📁](#Estructura-del-Repositorio-📁)
-- [Cómo Usar este Material 💡](#cómo-usar-este-material-💡)
-- [Recursos Adicionales 📚](#recursos-adicionales-📚)
-- [Contribuciones 🤝](#contribuciones-🤝)
-- [Contacto 📫](#contacto-📫)
-- [Licencia 📄](#licencia-📄)
+- [Introducción 🚀](#introducción)
+- [Estructura del Repositorio 📁](#estructura-del-repositorio)
+- [Cómo Usar este Material 💡](#cómo-usar-este-material)
+- [Recursos Adicionales 📚](#recursos-adicionales)
+- [Contribuciones 🤝](#contribuciones)
+- [Contacto 📫](#contacto)
+- [Licencia 📄](#licencia)
 
 ---
 
