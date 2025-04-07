@@ -9,7 +9,7 @@ Repositorio para compartir conferencias y ejercicios destinados a 1er año
 
 ## Índice
 
-- [Introducción 🚀](#introducción-🚀)
+- [Introducción 🚀](##introducción-🚀)
 - [Estructura del Repositorio 📁](#estructura-del-repositorio-📁)
 - [Cómo Usar este Material 💡](#cómo-usar-este-material-💡)
 - [Recursos Adicionales 📚](#recursos-adicionales-📚)
